@@ -2,7 +2,7 @@
 
 <template>
   <head>
-    <meta name="viewport" content="width=device-width, user-scalable=no" />
+    <meta name="viewport" content="width=device-width" />
   </head>
   <body>
     <main class="min-h-screen w-full bg-slate-50 text-slate-900">
